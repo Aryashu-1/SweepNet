@@ -1,0 +1,13 @@
+
+
+
+This folder contains all the CODE realated to SweepNet - The Neural Network
+
+
+Technical Specs :
+
+    - Python
+    - PyTorch
+    - Roboflow (Datasets and Deployment)
+    - Open CV
+    
