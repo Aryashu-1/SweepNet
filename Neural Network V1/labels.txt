@@ -1,0 +1,6 @@
+0 plastic
+1 ewaste
+2 organic
+3 metal
+4 Cardboard
+5 Paper

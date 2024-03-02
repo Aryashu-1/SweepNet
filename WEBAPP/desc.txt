@@ -1,9 +1,0 @@
-
-
-This folder contains all the CODE realated to Sweep Website - React App
-
-
-Technical Specs :
-
-    - React JS
-    
